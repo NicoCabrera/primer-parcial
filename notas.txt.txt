@@ -1,0 +1,9 @@
+Crear una BD en MySQL
+Crear el ABM conbslim
+Utilizar http para traer las personas( tiene un campo con el path de las fotos)
+Recorrerlas con ngFor mostralas con [src]
+Si es femenino mostrarlo de color rosa(class)
+crera un checkbox que se llame ocultar para ocultar una parte del html
+
+al presionar guardae se da de alta una nueva persona
+el el listado de ngFor agregar un boton "borrar y qye borre la persona de la base."
